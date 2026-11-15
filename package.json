@@ -1,0 +1,23 @@
+{
+  "name": "devops_project",
+  "version": "1.0.0",
+  "description": "My first DevOps project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyaratnakar26/DevOps_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyaratnakar26/DevOps_Project/issues"
+  },
+  "homepage": "https://github.com/Shreyaratnakar26/DevOps_Project#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
