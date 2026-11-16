@@ -21,3 +21,4 @@ Git feature branches are used to manage
 and track project modifications.
 
 Testing Jenkins CI/CD integration.
+Automated CI/CD pipeline with Jenkins and Node.js testing.
